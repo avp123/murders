@@ -2,7 +2,7 @@
 title: "Report on Gun Murders"
 author: "Ashray Pamula"
 date: "11/11/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
